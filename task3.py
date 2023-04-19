@@ -42,6 +42,6 @@ for key, value in scrabble.items():
                 else:
                     points = 10
                 summ+=points
-                print(key, summ, j)
+                print(summ)
 
         
